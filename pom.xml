@@ -3,13 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<parent>
-		<groupId>com.gmail.filoghost.chestcommands</groupId>
-		<artifactId>chestcommands-parent</artifactId>
-		<version>3.3.0-SNAPSHOT</version>
-	</parent>
-
+	<groupId>com.gmail.filoghost.chestcommands</groupId>
 	<artifactId>chestcommands-plugin</artifactId>
+	<version>3.3.0-SNAPSHOT</version>
 	<name>ChestCommands Plugin</name>
 
 	<repositories>
