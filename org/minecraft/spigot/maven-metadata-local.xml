@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.minecraft</groupId>
+  <artifactId>spigot</artifactId>
+  <versioning>
+    <versions>
+      <version>1.15.2</version>
+    </versions>
+    <lastUpdated>20200520170153</lastUpdated>
+  </versioning>
+</metadata>
