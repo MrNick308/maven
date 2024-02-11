@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.goodmine.libs</groupId>
+  <artifactId>goodmine-minigame</artifactId>
+  <versioning>
+    <release>1.0</release>
+    <versions>
+      <version>1.0</version>
+    </versions>
+    <lastUpdated>20220817151240</lastUpdated>
+  </versioning>
+</metadata>
